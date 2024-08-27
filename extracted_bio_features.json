@@ -1,0 +1,3955 @@
+[
+  {
+    "interests": [
+      "gym",
+      "sports",
+      "movies",
+      "dinners",
+      "music concerts"
+    ],
+    "personality_traits": [
+      "sense of humor",
+      "sincerity"
+    ],
+    "hobbies": [
+      "exercising",
+      "watching sports",
+      "movie marathons"
+    ],
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "active",
+      "social"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "470974088216"
+  },
+  {
+    "interests": [
+      "fine dining",
+      "theater",
+      "literature",
+      "art museums",
+      "clubbing"
+    ],
+    "personality_traits": [
+      "intellectual",
+      "idiosyncratic",
+      "ambitious",
+      "mindful"
+    ],
+    "hobbies": [
+      "fine dining",
+      "theater",
+      "literature",
+      "visiting art museums",
+      "clubbing"
+    ],
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "mindful living"
+    ],
+    "values": [
+      "art of living",
+      "life not to be taken seriously"
+    ],
+    "communication_style": "humorous",
+    "bio_sentiment": "positive",
+    "uid": "377531038735"
+  },
+  {
+    "interests": [
+      "art galleries",
+      "theaters",
+      "concert halls",
+      "mountain trails",
+      "dining",
+      "reading"
+    ],
+    "personality_traits": [
+      "cultured",
+      "intellectual",
+      "ambitious",
+      "sincere",
+      "humorous"
+    ],
+    "hobbies": [
+      "exploring art galleries",
+      "attending theater shows",
+      "going to concerts",
+      "hiking mountain trails",
+      "dining",
+      "reading"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "active",
+      "cultural enthusiast"
+    ],
+    "values": [
+      "intelligence",
+      "ambition",
+      "humor",
+      "sincerity"
+    ],
+    "communication_style": "not specified",
+    "notable_experiences": null,
+    "bio_sentiment": "positive",
+    "uid": "904356017601"
+  },
+  {
+    "interests": [
+      "sports",
+      "museums",
+      "art",
+      "hiking",
+      "adventures",
+      "culture"
+    ],
+    "personality_traits": [
+      "genuine",
+      "smart",
+      "humorous"
+    ],
+    "hobbies": [
+      "hiking",
+      "exploring museums",
+      "learning about art",
+      "adventures"
+    ],
+    "relationship_goals": "long-term",
+    "lifestyle": [
+      "active",
+      "cultural enthusiast"
+    ],
+    "values": [
+      "genuineness",
+      "intelligence",
+      "sense of humor"
+    ],
+    "communication_style": "humorous",
+    "bio_sentiment": "positive",
+    "uid": "241875085602"
+  },
+  {
+    "interests": [
+      "Art",
+      "Music",
+      "Dance",
+      "Theater",
+      "Concert",
+      "Books",
+      "Shopping",
+      "Fine Dining",
+      "Sushi",
+      "Yoga"
+    ],
+    "personality_traits": [
+      "Creative",
+      "Inquisitive",
+      "Joyful",
+      "Spontaneous"
+    ],
+    "hobbies": [
+      "Critiquing Art",
+      "Listening to Music",
+      "Playing Just Dance",
+      "Reading Suspense Novels",
+      "Shopping",
+      "Dining Out",
+      "Practicing Yoga"
+    ],
+    "career": "",
+    "education": "",
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "Enjoy Fine Dining",
+      "Active Lifestyle"
+    ],
+    "values": [
+      "Joy",
+      "Humor"
+    ],
+    "communication_style": "humorous",
+    "notable_experiences": [],
+    "bio_sentiment": "positive",
+    "uid": "376556943326"
+  },
+  {
+    "interests": [
+      "dancing",
+      "dining",
+      "movies",
+      "theater"
+    ],
+    "personality_traits": [
+      "maverick",
+      "humorous",
+      "attractive",
+      "intellectual"
+    ],
+    "hobbies": [
+      "dancing",
+      "dining",
+      "watching movies",
+      "discussing theater productions"
+    ],
+    "bio_sentiment": "positive",
+    "communication_style": "humorous",
+    "uid": "442846029935"
+  },
+  {
+    "interests": [
+      "sports",
+      "reading",
+      "movies",
+      "music"
+    ],
+    "personality_traits": [
+      "passionate",
+      "sincere",
+      "humorous",
+      "intelligent"
+    ],
+    "hobbies": [
+      "watching sports",
+      "reading",
+      "watching movies",
+      "listening to music"
+    ],
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "outdoor activities"
+    ],
+    "values": [
+      "sincerity",
+      "humor",
+      "intelligence"
+    ],
+    "communication_style": "casual",
+    "bio_sentiment": "positive",
+    "uid": "228619901404"
+  },
+  {
+    "interests": [
+      "sports",
+      "live music",
+      "eating out",
+      "museums",
+      "art"
+    ],
+    "personality_traits": [
+      "sports fanatic",
+      "charming",
+      "intelligent",
+      "joyful"
+    ],
+    "hobbies": [
+      "exercise",
+      "reading",
+      "watching TV",
+      "gaming",
+      "hiking"
+    ],
+    "career": "",
+    "education": "",
+    "lifestyle": [
+      "dining out",
+      "exploring new places"
+    ],
+    "values": [
+      "adventure",
+      "diversity in interests"
+    ],
+    "communication_style": "humorous",
+    "notable_experiences": [
+      "attending live music events"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "893265985235"
+  },
+  {
+    "interests": [
+      "art",
+      "culture",
+      "sports",
+      "restaurants"
+    ],
+    "personality_traits": [
+      "active",
+      "intelligent",
+      "witty",
+      "ambitious",
+      "genuine"
+    ],
+    "hobbies": [
+      "exploring museums",
+      "having deep intellectual conversations",
+      "listening to music",
+      "attending concerts"
+    ],
+    "relationship_goals": "long-term",
+    "lifestyle": [],
+    "values": [],
+    "communication_style": "casual",
+    "bio_sentiment": "positive",
+    "uid": "405533056955"
+  },
+  {
+    "interests": [
+      "sports",
+      "unique artworks",
+      "theater",
+      "movies"
+    ],
+    "personality_traits": [
+      "attractive",
+      "sincere",
+      "smart",
+      "good sense of humor"
+    ],
+    "hobbies": [
+      "exploring the magic of theater and movies",
+      "adventuring the world of sports",
+      "marvelling at unique artworks"
+    ],
+    "relationship_goals": "not specified",
+    "bio_sentiment": "positive",
+    "uid": "860315782520"
+  },
+  {
+    "interests": [
+      "finest food",
+      "best tv shows",
+      "blockbuster movies",
+      "dining",
+      "relaxing",
+      "humor",
+      "ambition",
+      "good book",
+      "music",
+      "gaming"
+    ],
+    "personality_traits": [
+      "sincere",
+      "witty",
+      "purposeful"
+    ],
+    "hobbies": [
+      "dining",
+      "watching TV",
+      "reading",
+      "gaming",
+      "listening to music"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "509979205051"
+  },
+  {
+    "interests": [
+      "sports",
+      "exercise",
+      "yoga",
+      "gaming",
+      "clubbing",
+      "movies",
+      "books",
+      "fine art",
+      "museums"
+    ],
+    "personality_traits": [
+      "attractive",
+      "smart",
+      "sincere",
+      "funny",
+      "ambitious"
+    ],
+    "hobbies": [
+      "sports",
+      "exercise",
+      "yoga",
+      "gaming",
+      "clubbing",
+      "watching movies",
+      "reading books",
+      "appreciating fine art",
+      "exploring museums"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "222389758252"
+  },
+  {
+    "interests": [
+      "sports",
+      "literature",
+      "TV shows",
+      "music"
+    ],
+    "personality_traits": [
+      "sincere",
+      "sharp-minded",
+      "ambitious",
+      "lively"
+    ],
+    "hobbies": [
+      "playing sports",
+      "discussing literature",
+      "watching TV shows",
+      "listening to music"
+    ],
+    "bio_sentiment": "positive",
+    "communication_style": "casual",
+    "uid": "360707330912"
+  },
+  {
+    "interests": [
+      "culture",
+      "dining",
+      "chic restaurants",
+      "art exhibitions",
+      "novels",
+      "museums",
+      "TV series",
+      "films",
+      "music",
+      "yoga"
+    ],
+    "personality_traits": [
+      "culture enthusiast",
+      "humorous"
+    ],
+    "hobbies": [
+      "dining in chic restaurants",
+      "visiting art exhibitions",
+      "reading novels",
+      "visiting museums",
+      "watching TV series and films",
+      "listening to music",
+      "doing yoga"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "finer things in life"
+    ],
+    "values": [
+      "appreciation for culture"
+    ],
+    "communication_style": "humorous",
+    "notable_experiences": null,
+    "bio_sentiment": "positive",
+    "uid": "551850586197"
+  },
+  {
+    "interests": [
+      "fine arts",
+      "reading",
+      "theatre",
+      "games",
+      "movies",
+      "shopping"
+    ],
+    "personality_traits": [
+      "sincerity",
+      "ambition",
+      "good sense of humor"
+    ],
+    "hobbies": [
+      "reading",
+      "shopping",
+      "watching movies",
+      "playing games",
+      "visiting museums",
+      "attending theatre"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "868622948248"
+  },
+  {
+    "interests": [
+      "fitness",
+      "sports",
+      "hiking",
+      "music",
+      "gourmet dining",
+      "movies",
+      "concerts",
+      "museum tours",
+      "reading",
+      "gaming"
+    ],
+    "personality_traits": [
+      "highly energetic",
+      "cool-headed",
+      "sharp intellect",
+      "high self-confidence",
+      "sincere"
+    ],
+    "hobbies": [
+      "sports",
+      "hiking",
+      "listening to music",
+      "dining out",
+      "watching movies",
+      "attending concerts",
+      "visiting museums",
+      "reading",
+      "gaming"
+    ],
+    "relationship_goals": "long-term",
+    "lifestyle": [
+      "active lifestyle",
+      "outdoors enthusiast",
+      "culturally curious"
+    ],
+    "values": [
+      "zest for life"
+    ],
+    "communication_style": "casual",
+    "bio_sentiment": "positive",
+    "uid": "783796432822"
+  },
+  {
+    "interests": [
+      "books",
+      "movies",
+      "TV",
+      "dining out",
+      "sports",
+      "games",
+      "museums",
+      "theaters",
+      "concerts",
+      "clubbing"
+    ],
+    "personality_traits": [
+      "sincere",
+      "self-sufficient",
+      "joy-seeking",
+      "growth-oriented",
+      "humorous"
+    ],
+    "hobbies": [
+      "reading",
+      "watching movies",
+      "watching TV",
+      "dining out",
+      "playing sports",
+      "playing games",
+      "visiting museums",
+      "attending theaters",
+      "attending concerts",
+      "clubbing"
+    ],
+    "bio_sentiment": "positive",
+    "relationship_goals": "long-term",
+    "values": [
+      "ambition",
+      "sincerity"
+    ],
+    "uid": "159789411810"
+  },
+  {
+    "interests": [
+      "sports",
+      "exercise",
+      "theater",
+      "museums",
+      "dining out",
+      "clubbing",
+      "movies"
+    ],
+    "personality_traits": [
+      "life enthusiast",
+      "attractive",
+      "sincere",
+      "ambitious",
+      "humorous"
+    ],
+    "hobbies": [
+      "sports",
+      "exercise",
+      "theater going",
+      "museum visiting",
+      "dining out",
+      "clubbing",
+      "watching movies"
+    ],
+    "relationship_goals": "long-term",
+    "bio_sentiment": "positive",
+    "uid": "871625094976"
+  },
+  {
+    "interests": [
+      "sports",
+      "workout routines",
+      "clubbing",
+      "visiting museums",
+      "game night",
+      "reading",
+      "hiking",
+      "yoga",
+      "cooking"
+    ],
+    "personality_traits": [
+      "adventurous",
+      "cultured",
+      "social",
+      "physically active",
+      "fun-loving"
+    ],
+    "hobbies": [
+      "sports",
+      "working out",
+      "clubbing",
+      "visiting museums",
+      "reading",
+      "hiking",
+      "yoga",
+      "cooking"
+    ],
+    "bio_sentiment": "positive",
+    "relationship_goals": "not specified",
+    "communication_style": "direct",
+    "lifestyle": [
+      "outgoing",
+      "cultured",
+      "active",
+      "foodie"
+    ],
+    "values": [
+      "good company",
+      "shared ambitions"
+    ],
+    "uid": "431749995052"
+  },
+  {
+    "interests": [
+      "Sports",
+      "Dining",
+      "Reading",
+      "Shopping",
+      "Music",
+      "Yoga"
+    ],
+    "personality_traits": [
+      "Funny",
+      "Sincere",
+      "Smart",
+      "Ambitious",
+      "Curious"
+    ],
+    "hobbies": [
+      "Watching sports",
+      "Dining out",
+      "Reading novels",
+      "Shopping",
+      "Attending concerts",
+      "Practicing yoga"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "Active",
+      "Social",
+      "Adventurous"
+    ],
+    "values": [
+      "Humor",
+      "Ambition",
+      "Curiosity"
+    ],
+    "communication_style": "casual",
+    "notable_experiences": null,
+    "bio_sentiment": "positive",
+    "uid": "502471685886"
+  },
+  {
+    "interests": [
+      "interesting reads",
+      "fine dining",
+      "club scene",
+      "live music",
+      "theater",
+      "movies",
+      "concerts"
+    ],
+    "personality_traits": [
+      "ambitious",
+      "intelligent",
+      "sincere"
+    ],
+    "hobbies": [
+      "reading",
+      "dining",
+      "clubbing",
+      "listening to music",
+      "watching movies"
+    ],
+    "relationship_goals": "long-term",
+    "lifestyle": [
+      "active social life"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "219360362705"
+  },
+  {
+    "interests": [
+      "art",
+      "museums",
+      "gourmet food",
+      "retail therapy",
+      "hiking",
+      "TV",
+      "reading",
+      "music"
+    ],
+    "personality_traits": [
+      "charming",
+      "sincere",
+      "ambitious",
+      "intelligent",
+      "humorous"
+    ],
+    "hobbies": [
+      "indulging in gourmet food",
+      "retail therapy",
+      "hiking",
+      "TV binges",
+      "reading",
+      "listening to music"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "925447563155"
+  },
+  {
+    "interests": [
+      "culinary indulgence",
+      "exploring new dishes",
+      "exploring literary genres",
+      "yoga",
+      "music",
+      "shopping"
+    ],
+    "personality_traits": [
+      "intelligent",
+      "attractive"
+    ],
+    "hobbies": [
+      "reading",
+      "yoga",
+      "shopping"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "387004643452"
+  },
+  {
+    "interests": [
+      "video games",
+      "exercises",
+      "yoga",
+      "art",
+      "museums",
+      "dining"
+    ],
+    "personality_traits": [
+      "smart",
+      "sincere",
+      "ambitious",
+      "humorous"
+    ],
+    "hobbies": [
+      "gaming",
+      "reading",
+      "exercises",
+      "yoga",
+      "visiting art and museums",
+      "dining"
+    ],
+    "bio_sentiment": "positive",
+    "lifestyle": [],
+    "communication_style": "humorous",
+    "uid": "887107955435"
+  },
+  {
+    "interests": [
+      "theater",
+      "yoga",
+      "movie appreciation",
+      "sports",
+      "dramatic arts"
+    ],
+    "personality_traits": [
+      "charming",
+      "sincere",
+      "ambitious"
+    ],
+    "hobbies": [
+      "theater",
+      "yoga",
+      "watching movies",
+      "sports"
+    ],
+    "career": null,
+    "education": "Major in movie appreciation, minor in sports fandom",
+    "relationship_goals": "long-term",
+    "lifestyle": [
+      "wellness",
+      "artistic",
+      "athletic"
+    ],
+    "values": [
+      "wellness",
+      "honesty",
+      "determination"
+    ],
+    "communication_style": "not specified",
+    "bio_sentiment": "positive",
+    "uid": "633392941756"
+  },
+  {
+    "interests": [
+      "athletic",
+      "high-energy",
+      "clubbing",
+      "nightlife",
+      "gastronomy",
+      "art",
+      "museums",
+      "books",
+      "television",
+      "theater",
+      "films"
+    ],
+    "personality_traits": [
+      "confident",
+      "intelligent",
+      "sincere"
+    ],
+    "hobbies": [
+      "basketball",
+      "hiking",
+      "exploring nightlife",
+      "gastronomic exploration",
+      "immersing in culture"
+    ],
+    "career": "",
+    "education": "",
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "clubbing enthusiast",
+      "outdoors lover"
+    ],
+    "values": [
+      "zest for life"
+    ],
+    "communication_style": "casual",
+    "notable_experiences": [],
+    "bio_sentiment": "positive",
+    "uid": "604861376907"
+  },
+  {
+    "interests": [
+      "art",
+      "theater",
+      "museums",
+      "reading",
+      "concerts",
+      "hiking"
+    ],
+    "personality_traits": [
+      "intelligent",
+      "sincere",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "reading",
+      "concert-going",
+      "hiking"
+    ],
+    "lifestyle": [
+      "not a fan of TV",
+      "not a fan of yoga"
+    ],
+    "notable_experiences": [
+      "exploring life through a new book every week",
+      "concert-going",
+      "hiking excursions"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "424170555372"
+  },
+  {
+    "interests": [
+      "theater",
+      "art",
+      "museums",
+      "music",
+      "movies",
+      "hiking",
+      "dancing",
+      "yoga"
+    ],
+    "personality_traits": [
+      "cultured",
+      "adventurous",
+      "fun-loving",
+      "balanced"
+    ],
+    "hobbies": [
+      "hiking",
+      "dancing",
+      "yoga"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "long-term",
+    "lifestyle": [
+      "outdoor activities",
+      "cultural exploration"
+    ],
+    "values": [
+      "balance",
+      "cultural richness"
+    ],
+    "communication_style": "not specified",
+    "notable_experiences": null,
+    "bio_sentiment": "positive",
+    "uid": "759559317405"
+  },
+  {
+    "interests": [
+      "adventure",
+      "TV",
+      "theatre",
+      "films",
+      "sports",
+      "music gigs",
+      "shopping"
+    ],
+    "personality_traits": [
+      "adventurous",
+      "humorous",
+      "ambitious",
+      "intelligent"
+    ],
+    "hobbies": [
+      "watching TV",
+      "theatre",
+      "films",
+      "playing sports",
+      "attending music gigs",
+      "shopping"
+    ],
+    "career": "",
+    "education": "",
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "active",
+      "social"
+    ],
+    "values": [],
+    "communication_style": "humorous",
+    "notable_experiences": [
+      "courts to the club",
+      "nature trails",
+      "newest restaurant in town"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "492716412104"
+  },
+  {
+    "interests": [
+      "cozy cafe",
+      "page-turner books",
+      "eclectic art",
+      "museum",
+      "movies",
+      "concerts",
+      "restaurants"
+    ],
+    "personality_traits": [
+      "ambitious",
+      "humorous",
+      "sincere"
+    ],
+    "hobbies": [
+      "reading",
+      "visiting museums",
+      "watching movies",
+      "attending concerts",
+      "dining out",
+      "hiking"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "196672589451"
+  },
+  {
+    "interests": [
+      "art",
+      "music",
+      "gaming",
+      "reading",
+      "movies",
+      "shows",
+      "clubbing"
+    ],
+    "personality_traits": [
+      "passionate",
+      "creative"
+    ],
+    "hobbies": [
+      "clubbing",
+      "reading",
+      "movies",
+      "shows",
+      "gaming"
+    ],
+    "career": "digital strategy",
+    "bio_sentiment": "positive",
+    "relationship_goals": "not specified",
+    "communication_style": "humorous",
+    "uid": "541051586099"
+  },
+  {
+    "interests": [
+      "intelligence",
+      "humor",
+      "gym",
+      "books",
+      "TV",
+      "movies",
+      "museums",
+      "art galleries",
+      "hiking"
+    ],
+    "personality_traits": [
+      "intelligent",
+      "humorous"
+    ],
+    "hobbies": [
+      "going to the gym",
+      "reading",
+      "watching TV",
+      "watching movies",
+      "visiting museums",
+      "visiting art galleries",
+      "hiking"
+    ],
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "appreciates good food",
+      "enjoys cinema"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "801902240868"
+  },
+  {
+    "interests": [
+      "sports",
+      "TV sports",
+      "traveling",
+      "museums"
+    ],
+    "personality_traits": [
+      "sincere",
+      "intellectual",
+      "fit",
+      "genuinely funny",
+      "humble"
+    ],
+    "hobbies": [
+      "sports",
+      "watching TV sports",
+      "traveling",
+      "exploring museums"
+    ],
+    "relationship_goals": "long-term",
+    "lifestyle": [
+      "active",
+      "intellectual pursuits"
+    ],
+    "values": [
+      "humor",
+      "sincerity"
+    ],
+    "communication_style": "casual",
+    "bio_sentiment": "positive",
+    "uid": "973290654474"
+  },
+  {
+    "interests": [
+      "athleticism",
+      "intellectual sophistication",
+      "sports",
+      "art",
+      "hiking",
+      "dining",
+      "gym",
+      "art galleries"
+    ],
+    "personality_traits": [
+      "adventurous",
+      "sophisticated",
+      "focused"
+    ],
+    "hobbies": [
+      "hiking",
+      "visiting art galleries",
+      "dining out",
+      "working out"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "active",
+      "cultured",
+      "non-mainstream preferences"
+    ],
+    "values": [],
+    "communication_style": "casual",
+    "notable_experiences": [],
+    "bio_sentiment": "positive",
+    "uid": "507587518613"
+  },
+  {
+    "interests": [
+      "sports",
+      "TV sports",
+      "museums",
+      "gaming"
+    ],
+    "personality_traits": [
+      "sincere",
+      "humorous"
+    ],
+    "hobbies": [
+      "visiting museums",
+      "gaming",
+      "watching sports"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "109267849144"
+  },
+  {
+    "interests": [
+      "sports",
+      "hiking",
+      "clubbing",
+      "art",
+      "yoga"
+    ],
+    "personality_traits": [
+      "sincere",
+      "humorous",
+      "ambitious",
+      "intelligent"
+    ],
+    "hobbies": [
+      "sports",
+      "hiking",
+      "clubbing",
+      "art",
+      "yoga"
+    ],
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "active",
+      "balanced"
+    ],
+    "values": [
+      "sincerity",
+      "humor",
+      "ambition",
+      "intelligence"
+    ],
+    "communication_style": "casual",
+    "bio_sentiment": "positive",
+    "uid": "373494866507"
+  },
+  {
+    "interests": [
+      "sports games",
+      "art exhibitions",
+      "dining",
+      "movies"
+    ],
+    "personality_traits": [
+      "intelligent",
+      "humorous",
+      "sincere",
+      "not overly driven",
+      "self-aware"
+    ],
+    "hobbies": [
+      "attending sports games",
+      "visiting art exhibitions",
+      "dining out",
+      "watching movies"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "enjoys laughter",
+      "engaging in culture",
+      "food enthusiast"
+    ],
+    "values": [
+      "sincerity",
+      "enjoying the journey"
+    ],
+    "communication_style": "casual",
+    "notable_experiences": [],
+    "bio_sentiment": "positive",
+    "uid": "289851002125"
+  },
+  {
+    "interests": [
+      "arts",
+      "theater",
+      "clubbing",
+      "movies",
+      "food"
+    ],
+    "personality_traits": [
+      "sincere",
+      "attractive",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "artsy expeditions",
+      "theater outings",
+      "clubbing",
+      "movie-going",
+      "art enthusiasm",
+      "foodie activities"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "long-term",
+    "lifestyle": [
+      "adventurous",
+      "enthusiastic about arts and culture"
+    ],
+    "values": [
+      "meaningful life",
+      "excitement"
+    ],
+    "communication_style": "casual",
+    "notable_experiences": null,
+    "bio_sentiment": "positive",
+    "uid": "524349652669"
+  },
+  {
+    "interests": [
+      "sports",
+      "video games",
+      "reading",
+      "music",
+      "yoga"
+    ],
+    "personality_traits": [
+      "outgoing",
+      "intelligent",
+      "humorous",
+      "honest",
+      "sincere"
+    ],
+    "hobbies": [
+      "shouting at the TV during games",
+      "playing PlayStation",
+      "reading",
+      "doing yoga",
+      "cracking jokes"
+    ],
+    "relationship_goals": "long-term",
+    "lifestyle": [
+      "active",
+      "diverse in music taste"
+    ],
+    "values": [
+      "honesty",
+      "sincerity"
+    ],
+    "communication_style": "humorous",
+    "bio_sentiment": "positive",
+    "uid": "163984239808"
+  },
+  {
+    "interests": [
+      "sports",
+      "clubbing",
+      "dining",
+      "theater",
+      "movies",
+      "music"
+    ],
+    "personality_traits": [
+      "cheeky",
+      "ambitious",
+      "sincere",
+      "humorous",
+      "attractive"
+    ],
+    "hobbies": [
+      "sports",
+      "clubbing",
+      "dining",
+      "theater",
+      "watching movies",
+      "listening to music"
+    ],
+    "career": "not mentioned",
+    "education": "not mentioned",
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "sports enthusiast",
+      "club goer"
+    ],
+    "values": [
+      "sincerity",
+      "ambition",
+      "humor"
+    ],
+    "communication_style": "humorous",
+    "notable_experiences": "not mentioned",
+    "bio_sentiment": "positive",
+    "uid": "787025322133"
+  },
+  {
+    "interests": [
+      "sport",
+      "TV",
+      "exercise",
+      "outdoors",
+      "hiking",
+      "movies",
+      "gaming"
+    ],
+    "personality_traits": [
+      "sporty",
+      "outdoorsy",
+      "modest",
+      "amateur",
+      "witty",
+      "sincere"
+    ],
+    "hobbies": [
+      "hiking",
+      "watching movies",
+      "gaming"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "long-term",
+    "lifestyle": [],
+    "values": [
+      "honesty",
+      "sincerity"
+    ],
+    "communication_style": "humorous",
+    "notable_experiences": [],
+    "bio_sentiment": "positive",
+    "uid": "465500010421"
+  },
+  {
+    "interests": [
+      "TV",
+      "sports",
+      "dining",
+      "art and museums",
+      "movies",
+      "music"
+    ],
+    "personality_traits": [
+      "humorous"
+    ],
+    "hobbies": [
+      "watching TV",
+      "attending sports events",
+      "dining out",
+      "enjoying movies",
+      "listening to music"
+    ],
+    "relationship_goals": "not specified",
+    "bio_sentiment": "positive",
+    "uid": "712660052731"
+  },
+  {
+    "interests": [
+      "creative things",
+      "museums",
+      "painting",
+      "food",
+      "concerts",
+      "reading",
+      "hiking",
+      "exploring"
+    ],
+    "personality_traits": [
+      "creative",
+      "humorous",
+      "humble",
+      "intelligent",
+      "not outdoorsy"
+    ],
+    "hobbies": [
+      "painting",
+      "dining out",
+      "reading",
+      "hiking"
+    ],
+    "career": null,
+    "education": "school of life",
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "enjoys dining out",
+      "enjoys concerts",
+      "enjoys reading",
+      "enjoys hiking"
+    ],
+    "values": [
+      "creativity",
+      "humor",
+      "humility",
+      "intelligence"
+    ],
+    "communication_style": "positive",
+    "notable_experiences": [
+      "enjoys museums",
+      "enjoys concerts"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "190134196290"
+  },
+  {
+    "interests": [
+      "art",
+      "concerts",
+      "fine dining",
+      "hiking",
+      "reading",
+      "theater",
+      "museums"
+    ],
+    "personality_traits": [
+      "art-loving",
+      "humorous",
+      "kind",
+      "ambitious"
+    ],
+    "hobbies": [
+      "attending concerts",
+      "fine dining",
+      "hiking",
+      "reading",
+      "visiting museums",
+      "theater"
+    ],
+    "career": "",
+    "education": "",
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "active",
+      "cultural enthusiast"
+    ],
+    "values": [
+      "kindness",
+      "ambition"
+    ],
+    "communication_style": "humorous",
+    "notable_experiences": [],
+    "bio_sentiment": "positive",
+    "uid": "660622561882"
+  },
+  {
+    "interests": [
+      "sports",
+      "clubbing",
+      "gaming",
+      "reading",
+      "movies",
+      "music"
+    ],
+    "personality_traits": [
+      "witty",
+      "ambitious"
+    ],
+    "hobbies": [
+      "keeping fit",
+      "clubbing",
+      "gaming",
+      "reading",
+      "watching movies",
+      "singing"
+    ],
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "active",
+      "social"
+    ],
+    "values": [
+      "ambition"
+    ],
+    "communication_style": "humorous",
+    "bio_sentiment": "positive",
+    "uid": "773972229250"
+  },
+  {
+    "interests": [
+      "eating",
+      "music",
+      "fitness",
+      "TV",
+      "movies",
+      "theatre",
+      "shopping"
+    ],
+    "personality_traits": [
+      "versatile",
+      "charismatic",
+      "sincere",
+      "intelligent",
+      "jovial",
+      "ambitious"
+    ],
+    "hobbies": [
+      "eating",
+      "music",
+      "fitness",
+      "watching TV",
+      "watching movies",
+      "theatre",
+      "shopping"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "956484892248"
+  },
+  {
+    "interests": [
+      "adventures",
+      "hiking",
+      "exploring genres of art",
+      "radio plays",
+      "theaters",
+      "concerts",
+      "museums",
+      "yoga",
+      "dining"
+    ],
+    "personality_traits": [
+      "sincere",
+      "ambitious",
+      "funny",
+      "intelligent"
+    ],
+    "hobbies": [
+      "hiking",
+      "exploring genres of art",
+      "listening to radio plays",
+      "attending theaters",
+      "going to concerts",
+      "visiting museums",
+      "practicing yoga",
+      "dining"
+    ],
+    "bio_sentiment": "positive",
+    "communication_style": "humorous",
+    "uid": "891006380882"
+  },
+  {
+    "interests": [
+      "staying fit",
+      "dining",
+      "sincerity",
+      "fitness class",
+      "home-cooked meal",
+      "museum",
+      "conversation",
+      "music",
+      "watching a play",
+      "theater"
+    ],
+    "personality_traits": [
+      "sincere",
+      "intelligent",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "fitness",
+      "cooking",
+      "visiting museums",
+      "listening to music",
+      "watching plays"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "active",
+      "cultured"
+    ],
+    "values": [
+      "honesty",
+      "ambition"
+    ],
+    "communication_style": "not specified",
+    "notable_experiences": null,
+    "bio_sentiment": "positive",
+    "uid": "706154619333"
+  },
+  {
+    "interests": [
+      "fine dining",
+      "art appreciation",
+      "music",
+      "modern art museums",
+      "theater",
+      "novels",
+      "orchestra symphonies"
+    ],
+    "hobbies": [
+      "reading",
+      "yoga",
+      "hiking"
+    ],
+    "personality_traits": [
+      "attractive",
+      "intelligent",
+      "humorous",
+      "ambitious"
+    ],
+    "lifestyle": [
+      "fitness lover"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "955590155644"
+  },
+  {
+    "interests": [
+      "art",
+      "dining",
+      "hiking",
+      "shopping",
+      "humor",
+      "ambition",
+      "sincerity",
+      "attractiveness",
+      "intelligence"
+    ],
+    "personality_traits": [
+      "humorous",
+      "ambitious",
+      "sincere",
+      "attractive",
+      "intelligent"
+    ],
+    "hobbies": [
+      "art appreciation",
+      "dining out",
+      "hiking",
+      "shopping"
+    ],
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "active",
+      "cultured"
+    ],
+    "values": [
+      "pace",
+      "spirituality"
+    ],
+    "communication_style": "humorous",
+    "bio_sentiment": "positive",
+    "uid": "206632090805"
+  },
+  {
+    "interests": [
+      "health",
+      "culture",
+      "humor",
+      "sports",
+      "art",
+      "museums",
+      "theaters",
+      "dining",
+      "adventuring",
+      "hiking",
+      "shopping",
+      "yoga"
+    ],
+    "personality_traits": [
+      "humorous",
+      "attractive",
+      "sincere",
+      "passionate",
+      "intellectual"
+    ],
+    "hobbies": [
+      "watching sports",
+      "visiting museums",
+      "going to theaters",
+      "dining",
+      "hiking",
+      "shopping",
+      "practicing yoga"
+    ],
+    "career": "",
+    "bio_sentiment": "positive",
+    "uid": "285067538828"
+  },
+  {
+    "interests": [
+      "outdoors",
+      "sporting events",
+      "dining out",
+      "arts",
+      "concerts",
+      "shopping",
+      "yoga",
+      "reading",
+      "mountain challenges"
+    ],
+    "personality_traits": [
+      "high-energy",
+      "intelligent",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "outdoors",
+      "sporting events",
+      "dining out",
+      "arts",
+      "concerts",
+      "shopping",
+      "yoga",
+      "reading",
+      "mountain challenges"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "393378266961"
+  },
+  {
+    "interests": [
+      "film",
+      "Sherlock Holmes' mysteries",
+      "gaming",
+      "the finer things in life"
+    ],
+    "personality_traits": [
+      "sincere",
+      "ambitious",
+      "intelligent",
+      "great sense of humor"
+    ],
+    "hobbies": [
+      "gaming",
+      "exploring finer things in life",
+      "watching films",
+      "solving mysteries"
+    ],
+    "relationship_goals": "long-term",
+    "lifestyle": [
+      "enjoys simple pleasures"
+    ],
+    "values": [
+      "enjoyment of life"
+    ],
+    "communication_style": "humorous",
+    "bio_sentiment": "positive",
+    "uid": "169699673541"
+  },
+  {
+    "interests": [
+      "sports",
+      "music",
+      "movies",
+      "dining",
+      "museum",
+      "art"
+    ],
+    "personality_traits": [
+      "intelligent",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "exercise",
+      "dining",
+      "visiting museums",
+      "exploring art"
+    ],
+    "career": "",
+    "education": "",
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "sports enthusiast",
+      "music and movie lover"
+    ],
+    "values": [
+      "ambition",
+      "intelligence",
+      "humor"
+    ],
+    "communication_style": "casual",
+    "notable_experiences": [],
+    "bio_sentiment": "positive",
+    "uid": "756287944750"
+  },
+  {
+    "interests": [
+      "sports",
+      "movies",
+      "reading",
+      "fine dining",
+      "music",
+      "concerts",
+      "book clubs"
+    ],
+    "personality_traits": [
+      "open-minded",
+      "funny",
+      "ambitious"
+    ],
+    "hobbies": [
+      "sports",
+      "reading",
+      "watching movies",
+      "fine dining"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "enjoys concerts",
+      "enjoys book clubs",
+      "appreciates fine dining"
+    ],
+    "values": [
+      "open-mindedness"
+    ],
+    "communication_style": "humorous",
+    "notable_experiences": null,
+    "bio_sentiment": "positive",
+    "uid": "623509472247"
+  },
+  {
+    "interests": [
+      "hiking",
+      "reading",
+      "exploring museums",
+      "theater",
+      "movies",
+      "music",
+      "sports",
+      "exercise"
+    ],
+    "personality_traits": [
+      "intelligent",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "hiking",
+      "reading",
+      "exploring museums",
+      "theater going",
+      "watching movies",
+      "listening to music",
+      "playing sports",
+      "exercising"
+    ],
+    "relationship_goals": "not specified",
+    "bio_sentiment": "positive",
+    "uid": "800558653428"
+  },
+  {
+    "interests": [
+      "sports",
+      "hiking",
+      "Netflix",
+      "gaming",
+      "reading",
+      "dancing",
+      "movies"
+    ],
+    "personality_traits": [
+      "charming",
+      "humorous",
+      "sincere",
+      "intelligent",
+      "ambitious"
+    ],
+    "hobbies": [
+      "sports",
+      "hiking",
+      "watching Netflix",
+      "gaming",
+      "reading",
+      "dancing",
+      "watching movies"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "250547850958"
+  },
+  {
+    "interests": [
+      "sports",
+      "exercise",
+      "art",
+      "dining",
+      "clubbing",
+      "shopping"
+    ],
+    "personality_traits": [
+      "energetic",
+      "intelligent",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "sports",
+      "exercise",
+      "visiting museums",
+      "dining",
+      "clubbing",
+      "shopping"
+    ],
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "fitness enthusiast",
+      "art lover",
+      "food lover"
+    ],
+    "values": [],
+    "communication_style": "not specified",
+    "bio_sentiment": "positive",
+    "uid": "273446529503"
+  },
+  {
+    "interests": [
+      "football",
+      "workout",
+      "museum tour",
+      "movie date",
+      "well-cooked meal",
+      "clubbing",
+      "video games"
+    ],
+    "personality_traits": [
+      "attractively intelligent",
+      "sincerely ambitious",
+      "humorously charming"
+    ],
+    "hobbies": [
+      "football",
+      "working out",
+      "visiting museums",
+      "watching movies",
+      "cooking",
+      "clubbing",
+      "playing video games"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "851794912865"
+  },
+  {
+    "interests": [
+      "sports",
+      "hiking",
+      "clubs",
+      "dinner",
+      "museum visits",
+      "books",
+      "TV series"
+    ],
+    "personality_traits": [
+      "active",
+      "passionate",
+      "intellectually curious",
+      "explorer",
+      "attractive",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "sports activities",
+      "hiking",
+      "clubbing",
+      "exploring tastes",
+      "art exploration"
+    ],
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "active",
+      "intellectual"
+    ],
+    "values": [
+      "sincerity",
+      "humor",
+      "ambition"
+    ],
+    "communication_style": "humorous",
+    "bio_sentiment": "positive",
+    "uid": "787661791728"
+  },
+  {
+    "interests": [
+      "jogging",
+      "reading",
+      "visiting museums",
+      "exploring new foods",
+      "classical music",
+      "art",
+      "watching sports",
+      "clubbing",
+      "movies",
+      "concerts",
+      "music",
+      "shopping",
+      "yoga"
+    ],
+    "personality_traits": [
+      "sincere",
+      "ambitious",
+      "attractive"
+    ],
+    "hobbies": [
+      "jogging",
+      "reading",
+      "visiting museums",
+      "exploring new foods",
+      "listening to classical music",
+      "watching sports",
+      "clubbing",
+      "watching movies",
+      "attending concerts",
+      "shopping",
+      "practicing yoga"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "long-term",
+    "lifestyle": [
+      "art lover",
+      "TV sports enthusiast",
+      "occasional clubber"
+    ],
+    "values": [],
+    "communication_style": "not specified",
+    "notable_experiences": [],
+    "bio_sentiment": "positive",
+    "uid": "454783133822"
+  },
+  {
+    "interests": [
+      "yoga",
+      "hiking",
+      "exploring museums",
+      "reading",
+      "theater",
+      "movies",
+      "concerts"
+    ],
+    "personality_traits": [
+      "energetic",
+      "positive",
+      "humorous",
+      "ambitious",
+      "sincere"
+    ],
+    "hobbies": [
+      "yoga",
+      "hiking",
+      "exploring museums",
+      "reading",
+      "watching theater",
+      "watching movies",
+      "attending concerts"
+    ],
+    "lifestyle": [
+      "active"
+    ],
+    "values": [
+      "fun",
+      "sincerity",
+      "ambition"
+    ],
+    "communication_style": "humorous",
+    "bio_sentiment": "positive",
+    "uid": "449562007396"
+  },
+  {
+    "interests": [
+      "dining",
+      "museums",
+      "art",
+      "theater",
+      "movies",
+      "concerts",
+      "clubbing"
+    ],
+    "personality_traits": [
+      "attractive",
+      "sincere",
+      "intelligent",
+      "funny",
+      "ambitious"
+    ],
+    "hobbies": [
+      "dining",
+      "museums",
+      "art",
+      "theater",
+      "movies",
+      "concerts",
+      "clubbing"
+    ],
+    "relationship_goals": "long-term",
+    "lifestyle": [
+      "exploratory",
+      "artistic"
+    ],
+    "values": [
+      "appreciation for art and culture"
+    ],
+    "communication_style": "casual",
+    "bio_sentiment": "positive",
+    "uid": "968171160087"
+  },
+  {
+    "interests": [
+      "sports",
+      "exercise",
+      "TV",
+      "books",
+      "cinemas",
+      "museums",
+      "theatres",
+      "music",
+      "shopping"
+    ],
+    "personality_traits": [
+      "humorous",
+      "sincere",
+      "intelligent",
+      "ambitious",
+      "honest"
+    ],
+    "hobbies": [
+      "sports",
+      "exercise",
+      "reading",
+      "watching TV",
+      "visiting cinemas",
+      "visiting museums",
+      "visiting theatres",
+      "listening to music",
+      "shopping"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "257173025309"
+  },
+  {
+    "interests": [
+      "art",
+      "museums",
+      "theater",
+      "dining",
+      "outdoors",
+      "cardio",
+      "books",
+      "movies",
+      "music",
+      "TV shows",
+      "clubbing"
+    ],
+    "personality_traits": [
+      "intelligent",
+      "attractive",
+      "energetic",
+      "diverse interests"
+    ],
+    "hobbies": [
+      "art",
+      "museums",
+      "theater",
+      "dining",
+      "outdoors",
+      "cardio",
+      "reading",
+      "watching movies",
+      "listening to music",
+      "watching TV shows",
+      "clubbing"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "424542132644"
+  },
+  {
+    "interests": [
+      "gallery-hopping",
+      "exploring new trails",
+      "trying out exotic meals",
+      "attending live concerts",
+      "music"
+    ],
+    "personality_traits": [
+      "music enthusiast",
+      "infectious laughter",
+      "attractive",
+      "sincere",
+      "intelligent",
+      "sense of humor",
+      "ambitious"
+    ],
+    "hobbies": [
+      "gallery-hopping",
+      "exploring",
+      "attending live concerts",
+      "exploring new trails",
+      "trying out exotic meals"
+    ],
+    "bio_sentiment": "positive",
+    "lifestyle": [
+      "foodie",
+      "music enthusiast",
+      "active"
+    ],
+    "values": [
+      "ambition",
+      "humor"
+    ],
+    "communication_style": "casual",
+    "uid": "899077192767"
+  },
+  {
+    "interests": [
+      "art",
+      "culture",
+      "music",
+      "museum",
+      "books",
+      "movies",
+      "yoga",
+      "dining out"
+    ],
+    "personality_traits": [
+      "intelligent",
+      "sincere",
+      "discerning",
+      "fitness-oriented"
+    ],
+    "hobbies": [
+      "exploring museums",
+      "reading",
+      "watching movies",
+      "practicing yoga",
+      "dining out"
+    ],
+    "lifestyle": [
+      "active",
+      "cultural enthusiast",
+      "health conscious"
+    ],
+    "values": [
+      "learning",
+      "striving",
+      "humor"
+    ],
+    "bio_sentiment": "positive",
+    "communication_style": "casual",
+    "uid": "404123100973"
+  },
+  {
+    "interests": [
+      "art galleries",
+      "restaurants",
+      "music concerts",
+      "gyms",
+      "yoga",
+      "good book",
+      "cinematic masterpiece",
+      "perfectly cooked meal"
+    ],
+    "personality_traits": [
+      "ambitious",
+      "aspirational",
+      "flexible"
+    ],
+    "hobbies": [
+      "visiting art galleries",
+      "dining out",
+      "attending music concerts",
+      "working out",
+      "practicing yoga",
+      "reading",
+      "appreciating cinema",
+      "cooking"
+    ],
+    "relationship_goals": "long-term",
+    "lifestyle": [
+      "active",
+      "cultured"
+    ],
+    "values": [
+      "appreciation for finer things",
+      "self-improvement"
+    ],
+    "communication_style": "casual",
+    "bio_sentiment": "positive",
+    "uid": "450646113847"
+  },
+  {
+    "interests": [
+      "dining",
+      "hiking",
+      "graphic novels",
+      "art exhibits"
+    ],
+    "personality_traits": [
+      "sincere",
+      "intelligent",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "hiking",
+      "discussing art and literature",
+      "culinary explorations"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "active",
+      "cultured"
+    ],
+    "values": [
+      "ambition",
+      "sincerity"
+    ],
+    "communication_style": "direct",
+    "notable_experiences": null,
+    "bio_sentiment": "positive",
+    "uid": "822373702876"
+  },
+  {
+    "interests": [
+      "Monet",
+      "live beats",
+      "silver screens",
+      "club beats",
+      "classic movies",
+      "concerts",
+      "TV show"
+    ],
+    "personality_traits": [
+      "wit",
+      "sincerity"
+    ],
+    "hobbies": [
+      "attending concerts",
+      "watching classic movies",
+      "watching TV shows"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "not into sports",
+      "enhancing the mind",
+      "aesthetics"
+    ],
+    "values": [
+      "humor",
+      "intelligence"
+    ],
+    "communication_style": "humorous",
+    "notable_experiences": null,
+    "bio_sentiment": "positive",
+    "uid": "577695567174"
+  },
+  {
+    "interests": [
+      "sports",
+      "arts",
+      "fitness",
+      "culture",
+      "reading",
+      "humor",
+      "movies"
+    ],
+    "personality_traits": [
+      "fitness enthusiast",
+      "culturally inclined",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "exercising",
+      "reading",
+      "visiting art galleries",
+      "watching movies"
+    ],
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "active lifestyle",
+      "cultural engagement"
+    ],
+    "values": [
+      "laughter as the best medicine"
+    ],
+    "communication_style": "humorous",
+    "bio_sentiment": "positive",
+    "uid": "386978855654"
+  },
+  {
+    "interests": [
+      "hiking",
+      "gaming",
+      "reading",
+      "art",
+      "music",
+      "fine dining",
+      "movies"
+    ],
+    "personality_traits": [
+      "thrill seeker",
+      "humor",
+      "ambition",
+      "intelligence",
+      "sincerity"
+    ],
+    "hobbies": [
+      "hiking",
+      "gaming",
+      "reading",
+      "exploring",
+      "learning"
+    ],
+    "lifestyle": [
+      "club-goer",
+      "theatre enthusiast",
+      "fine dining",
+      "movie lover"
+    ],
+    "values": [
+      "exploration",
+      "learning",
+      "growth",
+      "making memories"
+    ],
+    "communication_style": "humorous",
+    "bio_sentiment": "positive",
+    "uid": "690193996734"
+  },
+  {
+    "interests": [
+      "sports",
+      "art",
+      "reading"
+    ],
+    "personality_traits": [
+      "intelligent",
+      "humorous",
+      "sincere",
+      "authentic"
+    ],
+    "hobbies": [
+      "sports",
+      "art",
+      "reading"
+    ],
+    "relationship_goals": "long-term",
+    "lifestyle": [
+      "sporty",
+      "arty"
+    ],
+    "values": [
+      "inner beauty",
+      "joy",
+      "curiosity"
+    ],
+    "communication_style": "humorous",
+    "bio_sentiment": "positive",
+    "uid": "238851047973"
+  },
+  {
+    "interests": [
+      "sports",
+      "the arts",
+      "gastronomy",
+      "exploring hiking trails",
+      "fine dining",
+      "reading",
+      "music"
+    ],
+    "personality_traits": [
+      "attractive",
+      "intelligent",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "hiking",
+      "exploring art",
+      "reading",
+      "listening to music"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "176223028705"
+  },
+  {
+    "interests": [
+      "books",
+      "movies"
+    ],
+    "personality_traits": [
+      "witty",
+      "sincere",
+      "intelligent",
+      "ambitious"
+    ],
+    "hobbies": [
+      "reading",
+      "watching movies",
+      "physical health",
+      "dining"
+    ],
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "attractive inside and out"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "220725691394"
+  },
+  {
+    "interests": [
+      "sports",
+      "television",
+      "gaming",
+      "fitness",
+      "dining",
+      "reading"
+    ],
+    "personality_traits": [
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "sports",
+      "gaming",
+      "reading",
+      "fitness",
+      "dining"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "574252523900"
+  },
+  {
+    "interests": [
+      "games",
+      "hiking",
+      "art",
+      "museums",
+      "reading",
+      "dining",
+      "clubbing",
+      "sports"
+    ],
+    "personality_traits": [
+      "funny",
+      "ambitious"
+    ],
+    "hobbies": [
+      "gaming",
+      "hiking",
+      "visiting museums",
+      "reading",
+      "dining out",
+      "clubbing"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "indoor",
+      "outdoor"
+    ],
+    "values": [],
+    "communication_style": "casual",
+    "notable_experiences": [],
+    "bio_sentiment": "positive",
+    "uid": "898384458685"
+  },
+  {
+    "interests": [
+      "Vincent Van Gogh",
+      "Michelangelo",
+      "concerts",
+      "music",
+      "delicious dinners",
+      "scrumptious brunches",
+      "exquisite wines",
+      "good plays",
+      "great movies",
+      "compelling books",
+      "dance"
+    ],
+    "personality_traits": [
+      "intelligent",
+      "sincere",
+      "attractive",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "standing in the front row of a concert",
+      "dining",
+      "drinking wine",
+      " reading",
+      "watching movies",
+      "dancing"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "874414186570"
+  },
+  {
+    "interests": [
+      "theater",
+      "film",
+      "music",
+      "books",
+      "modern exhibits",
+      "exquisite cuisines"
+    ],
+    "personality_traits": [
+      "empathetic",
+      "sharp wit",
+      "authentic",
+      "attractive"
+    ],
+    "hobbies": [
+      "reading",
+      "exploring modern exhibits",
+      "savoring cuisines"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "614061135858"
+  },
+  {
+    "interests": [
+      "sports",
+      "gaming",
+      "art",
+      "clubbing",
+      "hiking"
+    ],
+    "personality_traits": [
+      "humorous",
+      "intelligent",
+      "sincere"
+    ],
+    "hobbies": [
+      "gaming",
+      "visiting art museums",
+      "clubbing",
+      "hiking"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "active",
+      "social"
+    ],
+    "values": [
+      "appreciation of art"
+    ],
+    "communication_style": "casual",
+    "notable_experiences": null,
+    "bio_sentiment": "positive",
+    "uid": "126672048809"
+  },
+  {
+    "interests": [
+      "sports",
+      "watching TV",
+      "outdoor activities",
+      "fine dining",
+      "action thrillers",
+      "hiking",
+      "nature"
+    ],
+    "personality_traits": [
+      "warm",
+      "athletic",
+      "driven",
+      "humorous",
+      "intelligent",
+      "self-confident"
+    ],
+    "hobbies": [
+      "watching sports",
+      "fine dining",
+      "watching action thrillers",
+      "hiking"
+    ],
+    "career": "",
+    "education": "",
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "active lifestyle",
+      "outdoor activities",
+      "fine dining",
+      "watching movies"
+    ],
+    "values": [
+      "sense of humor",
+      "intelligence",
+      "self-esteem"
+    ],
+    "communication_style": "not specified",
+    "bio_sentiment": "positive",
+    "uid": "332929211588"
+  },
+  {
+    "interests": [
+      "sports",
+      "fine dining",
+      "hiking",
+      "reading",
+      "films"
+    ],
+    "personality_traits": [
+      "sports-lover",
+      "hiking enthusiast",
+      "intellectual",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "sports",
+      "hiking",
+      "reading",
+      "watching films"
+    ],
+    "career": "",
+    "education": "",
+    "relationship_goals": "not specified",
+    "lifestyle": [],
+    "values": [
+      "sincerity"
+    ],
+    "communication_style": "humorous",
+    "notable_experiences": [],
+    "bio_sentiment": "positive",
+    "uid": "122967245670"
+  },
+  {
+    "interests": [
+      "sport",
+      "cuisine",
+      "hiking",
+      "clubbing",
+      "theatre",
+      "novels",
+      "museums",
+      "yoga"
+    ],
+    "personality_traits": [
+      "vibrant",
+      "engaging",
+      "intellectual"
+    ],
+    "hobbies": [
+      "sport",
+      "hiking",
+      "clubbing",
+      "theatre",
+      "reading novels",
+      "visiting museums",
+      "yoga"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "219584770821"
+  },
+  {
+    "interests": [
+      "reading",
+      "movies",
+      "art",
+      "dining out",
+      "gaming"
+    ],
+    "personality_traits": [
+      "intellectual",
+      "passionate"
+    ],
+    "hobbies": [
+      "reading",
+      "watching movies",
+      "enjoying art",
+      "dining out",
+      "gaming"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "780491388712"
+  },
+  {
+    "interests": [
+      "art",
+      "athletics",
+      "museums",
+      "sports",
+      "theater",
+      "movies"
+    ],
+    "personality_traits": [
+      "artistic",
+      "athletic",
+      "humorous",
+      "sincere"
+    ],
+    "hobbies": [
+      "exploring museums",
+      "playing sports",
+      "watching theater plays",
+      "watching movies"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "554121166498"
+  },
+  {
+    "interests": [
+      "dining",
+      "museums",
+      "art",
+      "reading",
+      "movies",
+      "concerts",
+      "music"
+    ],
+    "personality_traits": [
+      "self-aware",
+      "intelligent",
+      "funny",
+      "sincere",
+      "ambitious"
+    ],
+    "hobbies": [
+      "dining",
+      "visiting museums",
+      "reading",
+      "watching movies",
+      "attending concerts",
+      "listening to music"
+    ],
+    "bio_sentiment": "positive",
+    "relationship_goals": "not specified",
+    "communication_style": "casual",
+    "uid": "314595423781"
+  },
+  {
+    "interests": [
+      "art",
+      "nature walks",
+      "hiking",
+      "dining",
+      "theater"
+    ],
+    "personality_traits": [
+      "intellectual",
+      "art-loving",
+      "charming",
+      "ambitious",
+      "sincere"
+    ],
+    "hobbies": [
+      "discussing Picasso's masterpieces",
+      "discussing Spielberg's storylines",
+      "nature walks",
+      "dining",
+      "theater"
+    ],
+    "bio_sentiment": "positive",
+    "communication_style": "direct",
+    "lifestyle": [
+      "non-gamer",
+      "not a club-goer"
+    ],
+    "uid": "980062689358"
+  },
+  {
+    "interests": [
+      "fitness",
+      "art",
+      "hiking",
+      "concerts",
+      "gaming",
+      "reading"
+    ],
+    "personality_traits": [
+      "humorous",
+      "intelligent",
+      "sincere"
+    ],
+    "hobbies": [
+      "hiking",
+      "attending concerts",
+      "gaming",
+      "reading"
+    ],
+    "bio_sentiment": "positive",
+    "communication_style": "humorous",
+    "uid": "397187481462"
+  },
+  {
+    "interests": [],
+    "personality_traits": [
+      "attractive",
+      "sincere",
+      "intelligent",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [],
+    "bio_sentiment": "positive",
+    "uid": "162644004488"
+  },
+  {
+    "interests": [
+      "exercise",
+      "literature",
+      "dining",
+      "music",
+      "clubbing"
+    ],
+    "personality_traits": [
+      "high intelligence",
+      "humorous",
+      "attractive",
+      "ambitious"
+    ],
+    "hobbies": [
+      "exercise",
+      "reading",
+      "dining",
+      "listening to music",
+      "clubbing"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "103285621267"
+  },
+  {
+    "interests": [
+      "travel",
+      "art",
+      "reading",
+      "movies",
+      "theater",
+      "music",
+      "shopping",
+      "yoga"
+    ],
+    "personality_traits": [
+      "attractive",
+      "sincere",
+      "intelligent",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "traveling",
+      "painting",
+      "reading",
+      "watching movies",
+      "attending theater plays",
+      "listening to music",
+      "shopping",
+      "doing yoga"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "543128143029"
+  },
+  {
+    "interests": [
+      "sports",
+      "TV sports",
+      "exercise",
+      "fine dining",
+      "contemporary art"
+    ],
+    "personality_traits": [
+      "lively",
+      "ambitious",
+      "intelligent",
+      "humorous"
+    ],
+    "hobbies": [
+      "going to sports bars",
+      "working out at the gym",
+      "fine dining",
+      "visiting art museums",
+      "dancing",
+      "reading"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "active lifestyle",
+      "food lover",
+      "art enthusiast",
+      "nightlife"
+    ],
+    "values": [
+      "sincerity"
+    ],
+    "communication_style": "not specified",
+    "notable_experiences": [],
+    "bio_sentiment": "positive",
+    "uid": "833339983746"
+  },
+  {
+    "interests": [
+      "art",
+      "intellectual pursuits",
+      "social activities",
+      "concerts",
+      "theatres",
+      "clubs",
+      "video games",
+      "contemporary art",
+      "museums",
+      "dining out",
+      "hiking",
+      "yoga"
+    ],
+    "hobbies": [
+      "attending concerts",
+      "visiting theatres",
+      "clubbing",
+      "playing video games",
+      "discussing art",
+      "hiking",
+      "yoga"
+    ],
+    "personality_traits": [
+      "lover of art",
+      "intellectual",
+      "social butterfly",
+      "sincere",
+      "ambitious"
+    ],
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "active",
+      "social",
+      "cultural enthusiast"
+    ],
+    "values": [
+      "intelligence",
+      "humor"
+    ],
+    "communication_style": "not specified",
+    "bio_sentiment": "positive",
+    "uid": "499545071444"
+  },
+  {
+    "interests": [
+      "art",
+      "reading",
+      "theater",
+      "music",
+      "yoga"
+    ],
+    "personality_traits": [
+      "attractive",
+      "intelligent",
+      "sincere",
+      "ambitious",
+      "humorous"
+    ],
+    "hobbies": [
+      "visiting museums",
+      "reading books",
+      "watching theater",
+      "listening to music",
+      "doing yoga"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "450412992626"
+  },
+  {
+    "interests": [
+      "art",
+      "music",
+      "museums",
+      "theaters",
+      "clubbing",
+      "dining",
+      "movies",
+      "concerts",
+      "books",
+      "TV"
+    ],
+    "personality_traits": [
+      "witty",
+      "ambitious",
+      "sincere",
+      "intelligent"
+    ],
+    "hobbies": [
+      "clubbing",
+      "dining",
+      "watching movies",
+      "attending concerts",
+      "reading",
+      "watching TV",
+      "hiking",
+      "exercising"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "897109477567"
+  },
+  {
+    "interests": [
+      "sports",
+      "exercise",
+      "dining",
+      "art",
+      "museums",
+      "hiking",
+      "gaming",
+      "clubbing",
+      "reading",
+      "tv",
+      "theater",
+      "movies",
+      "concerts",
+      "music"
+    ],
+    "personality_traits": [
+      "sporty",
+      "keen interest in tv sports",
+      "soft spot for art",
+      "sincere",
+      "attractive",
+      "intelligent",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "sports",
+      "exercise",
+      "dining",
+      "art",
+      "museums",
+      "hiking",
+      "gaming",
+      "clubbing",
+      "reading",
+      "tv",
+      "theater",
+      "movies",
+      "concerts",
+      "music"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "741070561091"
+  },
+  {
+    "interests": [
+      "sports",
+      "food",
+      "clubbing",
+      "TV",
+      "movies",
+      "concerts",
+      "shopping"
+    ],
+    "personality_traits": [
+      "active",
+      "lively",
+      "handsome",
+      "ambitious",
+      "sincere",
+      "intelligent",
+      "humorous"
+    ],
+    "hobbies": [
+      "keeping fit",
+      "clubbing",
+      "watching TV",
+      "watching movies",
+      "attending concerts",
+      "shopping"
+    ],
+    "relationship_goals": "long-term",
+    "lifestyle": [
+      "foodie",
+      "fitness enthusiast"
+    ],
+    "values": [
+      "ambition",
+      "sincerity",
+      "intelligence",
+      "humor"
+    ],
+    "communication_style": "humorous",
+    "bio_sentiment": "positive",
+    "uid": "832315252781"
+  },
+  {
+    "interests": [
+      "Art",
+      "Exercise",
+      "Food",
+      "Hiking",
+      "Theater",
+      "Live concerts",
+      "Shopping",
+      "Yoga"
+    ],
+    "personality_traits": [
+      "Balanced",
+      "Intellectual",
+      "Humorous",
+      "Appreciates finer things",
+      "Zen"
+    ],
+    "hobbies": [
+      "Hiking",
+      "Yoga",
+      "Shopping",
+      "Attending live concerts",
+      "Going to the theater"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "282937911943"
+  },
+  {
+    "interests": [
+      "fine dining",
+      "clubbing",
+      "art",
+      "reading",
+      "music",
+      "theater",
+      "film",
+      "shopping",
+      "yoga"
+    ],
+    "personality_traits": [
+      "humorous",
+      "intelligent",
+      "ambitious"
+    ],
+    "hobbies": [
+      "fine dining",
+      "clubbing",
+      "art exploration",
+      "reading",
+      "music",
+      "theater",
+      "film watching",
+      "shopping",
+      "yoga"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [],
+    "values": [],
+    "communication_style": "humorous",
+    "notable_experiences": [],
+    "bio_sentiment": "positive",
+    "uid": "541611059870"
+  },
+  {
+    "interests": [
+      "sports",
+      "books",
+      "fine dining",
+      "art",
+      "museums"
+    ],
+    "personality_traits": [
+      "ambitious",
+      "sincere",
+      "intelligent",
+      "charming",
+      "humorous"
+    ],
+    "hobbies": [
+      "reading",
+      "visiting museums",
+      "dining out"
+    ],
+    "relationship_goals": "long-term",
+    "lifestyle": [
+      "active",
+      "cultural enthusiast"
+    ],
+    "values": [
+      "humor",
+      "intelligence"
+    ],
+    "communication_style": "humorous",
+    "bio_sentiment": "positive",
+    "uid": "663426305326"
+  },
+  {
+    "interests": [
+      "sports",
+      "eating out",
+      "concerts",
+      "outdoor activities"
+    ],
+    "personality_traits": [
+      "intelligent",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "running",
+      "watching sports",
+      "eating out",
+      "attending concerts"
+    ],
+    "bio_sentiment": "positive",
+    "relationship_goals": "not specified",
+    "uid": "647712654568"
+  },
+  {
+    "interests": [
+      "adventurous",
+      "hiking",
+      "football",
+      "high-intensity workout",
+      "movies",
+      "music",
+      "concerts"
+    ],
+    "personality_traits": [
+      "attractive",
+      "sincere",
+      "intelligent",
+      "good sense of humor",
+      "ambitious"
+    ],
+    "hobbies": [
+      "hiking",
+      "watching movies",
+      "listening to music",
+      "attending concerts",
+      "playing football",
+      "working out"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "561319501263"
+  },
+  {
+    "interests": [
+      "books",
+      "Netflix series",
+      "museums",
+      "art",
+      "theatre",
+      "concerts",
+      "exercise",
+      "gaming",
+      "movies",
+      "city life"
+    ],
+    "personality_traits": [
+      "intellectual",
+      "humorous",
+      "ambitious",
+      "sincere",
+      "modest"
+    ],
+    "hobbies": [
+      "reading",
+      "watching Netflix",
+      "visiting museums",
+      "appreciating art",
+      "attending theatre",
+      "going to concerts",
+      "exercising",
+      "gaming",
+      "movie nights",
+      "exploring the city"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "active lifestyle",
+      "cultural enthusiast"
+    ],
+    "values": [
+      "modesty"
+    ],
+    "communication_style": "humorous",
+    "notable_experiences": null,
+    "bio_sentiment": "positive",
+    "uid": "249694674562"
+  },
+  {
+    "interests": [
+      "art",
+      "music",
+      "theater",
+      "exercise"
+    ],
+    "personality_traits": [
+      "intelligent",
+      "deep thinker",
+      "sincere"
+    ],
+    "hobbies": [
+      "scaling mountains",
+      "exploring modern art",
+      "reading"
+    ],
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "fitness-oriented"
+    ],
+    "values": [
+      "appreciation for humor"
+    ],
+    "communication_style": "not specified",
+    "bio_sentiment": "positive",
+    "uid": "248910540851"
+  },
+  {
+    "interests": [
+      "dining",
+      "flavors of the world",
+      "art",
+      "museums",
+      "sports",
+      "music"
+    ],
+    "personality_traits": [
+      "sincere",
+      "intelligent",
+      "good humor"
+    ],
+    "hobbies": [
+      "enjoying dining experiences",
+      "art and museums",
+      "attending sports matches",
+      "listening to music"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [],
+    "values": [],
+    "communication_style": "humorous",
+    "notable_experiences": [],
+    "bio_sentiment": "positive",
+    "uid": "965464370378"
+  },
+  {
+    "interests": [
+      "dining",
+      "literature",
+      "music",
+      "cinematic experiences"
+    ],
+    "personality_traits": [
+      "sincere",
+      "intelligent",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "dining",
+      "reading",
+      "listening to music",
+      "watching movies"
+    ],
+    "relationship_goals": "not specified",
+    "communication_style": "eloquent",
+    "bio_sentiment": "positive",
+    "uid": "891400566773"
+  },
+  {
+    "interests": [
+      "sports",
+      "movies",
+      "food",
+      "museums",
+      "arts",
+      "books",
+      "clubbing",
+      "shopping"
+    ],
+    "personality_traits": [
+      "intelligent",
+      "humorous",
+      "ambitious"
+    ],
+    "hobbies": [
+      "visiting museums",
+      "dabbling in arts",
+      "reading"
+    ],
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "sports fan",
+      "movie aficionado",
+      "foodie",
+      "club friendly",
+      "shopping keen"
+    ],
+    "values": [
+      "exploration",
+      "connectedness"
+    ],
+    "communication_style": "direct",
+    "bio_sentiment": "positive",
+    "uid": "679117384151"
+  },
+  {
+    "interests": [
+      "adventure",
+      "movies",
+      "theatre",
+      "concerts",
+      "reading",
+      "hiking",
+      "art",
+      "clubs"
+    ],
+    "personality_traits": [
+      "fun",
+      "attractive",
+      "humorous",
+      "ambitious",
+      "intelligent"
+    ],
+    "hobbies": [
+      "reading",
+      "hiking",
+      "art",
+      "hanging out at clubs"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "758074869557"
+  },
+  {
+    "interests": [
+      "dining",
+      "music",
+      "movies",
+      "concerts",
+      "hiking",
+      "museums"
+    ],
+    "personality_traits": [
+      "intelligent",
+      "romantic"
+    ],
+    "hobbies": [
+      "dining out",
+      "attending concerts",
+      "hiking",
+      "visiting museums"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [],
+    "values": [],
+    "communication_style": "not specified",
+    "notable_experiences": [],
+    "bio_sentiment": "positive",
+    "uid": "238957697401"
+  },
+  {
+    "interests": [
+      "hiking",
+      "gaming",
+      "museum visits",
+      "dining",
+      "clubs",
+      "reading",
+      "movies",
+      "theater"
+    ],
+    "personality_traits": [
+      "heart-throb",
+      "sincere",
+      "ambitious",
+      "vivacious",
+      "humorous"
+    ],
+    "hobbies": [
+      "hiking",
+      "gaming",
+      "museum visits",
+      "dining",
+      "clubbing",
+      "reading",
+      "watching movies",
+      "theater"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "early morning hikes",
+      "midday gaming",
+      "late afternoon museum visits",
+      "dinner at favorite spots",
+      "clubbing",
+      "indoor reading",
+      "watching movies",
+      "theater attendance"
+    ],
+    "values": [],
+    "communication_style": "humorous",
+    "notable_experiences": [],
+    "bio_sentiment": "positive",
+    "uid": "215862483279"
+  },
+  {
+    "interests": [
+      "ambition",
+      "intellect",
+      "humor",
+      "music",
+      "reading",
+      "blockbuster movies",
+      "art",
+      "history",
+      "concerts",
+      "books"
+    ],
+    "personality_traits": [
+      "ambitious",
+      "intellectual",
+      "humorous"
+    ],
+    "hobbies": [
+      "listening to music",
+      "reading",
+      "watching movies",
+      "visiting museums",
+      "attending concerts"
+    ],
+    "bio_sentiment": "positive",
+    "relationship_goals": "not specified",
+    "communication_style": "casual",
+    "uid": "386144918766"
+  },
+  {
+    "interests": [
+      "sports",
+      "exercise",
+      "museums",
+      "art galleries",
+      "dining",
+      "reading",
+      "movies",
+      "concerts"
+    ],
+    "personality_traits": [
+      "ambitious",
+      "sincere",
+      "humorous"
+    ],
+    "hobbies": [
+      "sports",
+      "exercise",
+      "visiting museums",
+      "art galleries",
+      "dining out",
+      "reading",
+      "watching movies",
+      "attending concerts"
+    ],
+    "career": "",
+    "education": "",
+    "relationship_goals": "not specified",
+    "lifestyle": [],
+    "values": [],
+    "communication_style": "humorous",
+    "notable_experiences": [],
+    "bio_sentiment": "positive",
+    "uid": "878219094645"
+  },
+  {
+    "interests": [
+      "art",
+      "dining",
+      "sports",
+      "books",
+      "theaters",
+      "museums"
+    ],
+    "personality_traits": [
+      "sincere",
+      "intellectual",
+      "ambitious",
+      "joyful"
+    ],
+    "hobbies": [
+      "visiting theaters",
+      "visiting museums",
+      "movie marathons",
+      "shopping"
+    ],
+    "bio_sentiment": "positive",
+    "uid": "499896260763"
+  },
+  {
+    "interests": [
+      "books",
+      "movies",
+      "music",
+      "adventure",
+      "fine dining",
+      "art",
+      "museums"
+    ],
+    "personality_traits": [
+      "ambitious",
+      "humorous"
+    ],
+    "hobbies": [
+      "reading",
+      "watching movies",
+      "listening to music",
+      "traveling",
+      "exploring new cultural spots"
+    ],
+    "bio_sentiment": "positive",
+    "communication_style": "humorous",
+    "uid": "670913776787"
+  },
+  {
+    "interests": [
+      "museum",
+      "cozy night in",
+      "good book",
+      "movie",
+      "sports",
+      "exercise",
+      "clubbing"
+    ],
+    "personality_traits": [
+      "sincerity",
+      "intelligence"
+    ],
+    "hobbies": [
+      "visiting museums",
+      "reading",
+      "watching movies",
+      "sports",
+      "exercise",
+      "clubbing"
+    ],
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "likes staying in",
+      "likes going out",
+      "active"
+    ],
+    "values": [
+      "sincerity",
+      "intelligence"
+    ],
+    "communication_style": "casual",
+    "bio_sentiment": "positive",
+    "uid": "805056771002"
+  },
+  {
+    "interests": [
+      "art",
+      "exquisite dining",
+      "concerts",
+      "reading",
+      "hiking",
+      "online gaming"
+    ],
+    "personality_traits": [
+      "art enthusiast",
+      "sincere",
+      "intelligent",
+      "ambitious"
+    ],
+    "hobbies": [
+      "hiking",
+      "online gaming",
+      "reading"
+    ],
+    "career": null,
+    "education": null,
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "loves deep conversations",
+      "enjoys curated Spotify playlists",
+      "likes movie theatre popcorn and m&ms"
+    ],
+    "values": null,
+    "communication_style": "not specified",
+    "notable_experiences": null,
+    "bio_sentiment": "positive",
+    "uid": "480879945117"
+  },
+  {
+    "interests": [
+      "charm",
+      "humor",
+      "intelligence",
+      "dinner parties",
+      "museums",
+      "blockbusters",
+      "music",
+      "reading",
+      "sports",
+      "exercise",
+      "art"
+    ],
+    "personality_traits": [
+      "charming",
+      "humorous",
+      "intelligent",
+      "active",
+      "appreciative of art"
+    ],
+    "hobbies": [
+      "hosting dinner parties",
+      "visiting museums",
+      "watching blockbusters",
+      "listening to music",
+      "reading",
+      "playing sports",
+      "exercising"
+    ],
+    "relationship_goals": "long-term",
+    "lifestyle": [
+      "active"
+    ],
+    "values": [
+      "sincerity",
+      "ambition"
+    ],
+    "communication_style": "casual",
+    "bio_sentiment": "positive",
+    "uid": "916037493576"
+  },
+  {
+    "interests": [
+      "movies",
+      "music",
+      "museums",
+      "dining",
+      "books"
+    ],
+    "personality_traits": [
+      "intelligent",
+      "humorous",
+      "attractive"
+    ],
+    "hobbies": [
+      "watching movies",
+      "listening to music",
+      "visiting museums",
+      "exploring dining scenes",
+      "reading"
+    ],
+    "career": "",
+    "education": "",
+    "relationship_goals": "not specified",
+    "lifestyle": [],
+    "values": [],
+    "communication_style": "humorous",
+    "notable_experiences": [],
+    "bio_sentiment": "positive",
+    "uid": "742603983348"
+  },
+  {
+    "interests": [
+      "dining",
+      "reading",
+      "exploring the arts",
+      "theatre",
+      "movie screening",
+      "hiking",
+      "clubbing"
+    ],
+    "personality_traits": [
+      "charming",
+      "intellect",
+      "humorous"
+    ],
+    "hobbies": [
+      "dining",
+      "reading",
+      "exploring the arts",
+      "going to theatre",
+      "movie screening",
+      "hiking",
+      "clubbing"
+    ],
+    "relationship_goals": "not specified",
+    "lifestyle": [
+      "art enthusiast",
+      "adventurous"
+    ],
+    "values": [
+      "sincerity",
+      "ambition",
+      "sense of humor"
+    ],
+    "communication_style": "humorous",
+    "bio_sentiment": "positive",
+    "uid": "601605091641"
+  },
+  {
+    "interests": [
+      "art",
+      "fine dining",
+      "movies",
+      "music",
+      "sports",
+      "hiking",
+      "night clubs"
+    ],
+    "personality_traits": [
+      "sincere",
+      "ambitious",
+      "bright",
+      "humorous"
+    ],
+    "hobbies": [
+      "dining out",
+      "visiting art exhibitions",
+      "watching sports",
+      "hiking",
+      "clubbing"
+    ],
+    "relationship_goals": "not specified",
+    "bio_sentiment": "positive",
+    "uid": "589323853010"
+  }
+]
