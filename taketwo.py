@@ -84,7 +84,7 @@ def extract_bio_features(bio_text: str) -> Dict:
 
     try:
         response = openai.chat.completions.create(
-            model="gpt-4-0125-preview",
+            model="gpt-4o",
             messages=messages,
             tools=tools,
         )
