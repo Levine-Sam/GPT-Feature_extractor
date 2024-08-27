@@ -98,16 +98,16 @@ def extract_bio_features(bio_text: str) -> Dict:
             return None
     except openai.RateLimitError as e:
         print(f"Rate limit reached. Retrying in a moment... (Error: {str(e)})")
-        time.sleep(random.uniform(1, 5))  # Random sleep between 1 and 5 seconds
-        raise  # Re-raise the exception to trigger a retry
+        time.sleep(random.uniform(1, 5))  
+        raise  
 
 def process_bios_from_csv(file_path: str) -> List[Dict]:
     results = []
     with open(file_path, 'r', newline='', encoding='utf-8') as csvfile:
         reader = csv.reader(csvfile)
-        next(reader)  # Skip header row if present
+        next(reader)  
         for row in reader:
-            uid, bio = row[0], row[1].strip('*')  # Remove asterisks from bio
+            uid, bio = row[0], row[1].strip('*')  
             try:
                 extracted_info = extract_bio_features(bio)
                 if extracted_info:
@@ -118,16 +118,16 @@ def process_bios_from_csv(file_path: str) -> List[Dict]:
                     print(f"Failed to extract information for UID: {uid}")
             except Exception as e:
                 print(f"Error processing UID: {uid}. Error: {str(e)}")
-                # Optionally, you can add the failed UID to a list for later retry
+                
     return results
 
 def save_results_to_json(results: List[Dict], output_file: str):
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
 
-# Main execution
+
 if __name__ == "__main__":
-    input_csv = "bio.csv"  # Assume the bios are in a file named bios.csv
+    input_csv = "bio.csv"  
     output_json = "extracted_bio_features.json"
     
     print("Processing bios...")
